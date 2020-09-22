@@ -5,5 +5,6 @@ public class Main {
         System.out.printf("step 1 - adm");
         System.out.printf("step 1 - adm");
         System.out.printf("step 2 - develop");
+        System.out.printf("step 3 - develop");
     }
 }
